@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 0 20px;
+  background-color: rgb(224, 230, 237);
+}
+
+h1 {
+  color: #2457a7;
+  font-size: 36px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  margin: 20px auto;
+  border-radius: 50%;
+}
+
+p {
+  line-height: 1.7;
+ color:goldenrod;
+ font-size: 18px;
+  text-align: justify; 
+}
+
+.skills-list {
+  background-color: rgb(184, 236, 184);
+  padding: 20px 40px;
+  border: 2px solid gray;
+
+}

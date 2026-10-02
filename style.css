@@ -1,0 +1,15 @@
+h1 {
+  color: brown;
+ }
+ /* element selector*/
+ h3,h4{
+   color: lightblue;
+}
+/* class selector */
+.SecD{
+    color:yellow;
+}
+/* id selector */
+#sarija{
+    color:brown;
+};

@@ -1,0 +1,22 @@
+div{
+    border: 2px solid red;
+    padding: 10px;
+    margin-top: 20px;
+    height: 100px;
+    width: 150px;
+}
+.second{
+    border: 2px solid blue;
+    padding: 10px;
+    margin-top: 20px;
+    height: 100px;
+    width: 150px;
+}
+#sarija{
+    border: 2px solid green;
+    padding: 10px;
+    margin-top: 20px;
+    height: 100px;
+    width: 150px;
+}
+    

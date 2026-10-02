@@ -1,0 +1,21 @@
+div{
+    border: 2px solid red;
+    padding: 10px;
+    margin-top: 20px;
+    height: 350px;
+    width: 350px;
+}
+.box{
+    border: 2px solid blue;
+    padding: 10px;
+    margin-top: 20px;
+    height: 350px;
+    width: 350px;
+}
+#sarija{
+    border: 2px solid green;
+    padding: 10px;
+    margin-top: 20px;
+    height: 350px;
+    width: 350px;
+}
